@@ -1,4 +1,4 @@
-package ar.com.ada.creditos.entitites;
+package ar.com.ada.creditos.entities;
 import java.util.Date;
 import javax.persistence.*;
 import org.hibernate.annotations.NaturalId;
